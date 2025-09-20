@@ -15,6 +15,7 @@ String _formatRequest(EmployeeRequest r) =>
 
 // Inline employee JSON as requested in the spec
 final String employeeJson = '''
+
 [
   { "id": "EMP001", "access_level": 2, "request_time": "09:15", "room": "ServerRoom" },
   { "id": "EMP002", "access_level": 1, "request_time": "09:30", "room": "Vault" },

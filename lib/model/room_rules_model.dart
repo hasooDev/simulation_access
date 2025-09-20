@@ -1,5 +1,4 @@
 
-/// ---- Room rules ----
 class RoomRule {
   final String name;
   final int minAccessLevel;
