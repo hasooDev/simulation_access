@@ -261,7 +261,7 @@ class _AccessSimulatorScreenState extends State<AccessSimulatorScreen> {
                   Expanded(
                     child: Card(
                       color: Colors.white,
-                      elevation: 1,
+                      elevation: 2,
                       child: _results.isEmpty
                           ? const Center(
                         child: Text(
